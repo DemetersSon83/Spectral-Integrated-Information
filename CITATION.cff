@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Spectral Integration Information"
+version: "1.0"
+authors:
+  - family-names: Bailey
+    given-names: Mark M.
+    affiliation: "Center for the Future of Mind, AI and Society"
+  - family-names: Schneider
+    given-names: Susan S.
+    affiliation: "Center for the Future of Mind, AI and Society"
+date-released: 2026-01-22
+repository-code: "https://github.com/DemetersSon83/Spectral-Integrated-Information"
+license: MIT
+type: software
+keywords:
+  - spectral graph theory
+  - complex systems
+  - graph embeddings
