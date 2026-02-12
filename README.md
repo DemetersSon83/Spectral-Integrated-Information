@@ -57,3 +57,15 @@ phispectral compute --input data.csv --window 10 --step 1 --bins 3 --outdir outp
 `sweep` writes the above for each window and additionally:
 
 - `phi_vs_window.png` : mean Φ vs window size (plus optional spread)
+
+## Citation
+
+```bibtex
+@misc{BaileySchneider2025,
+  author       = {Mark M. Bailey and Susan L. Schneider},
+  title        = {When Wholes Resist Decomposition: A Spectral Measure of Epistemic Emergence},
+  note         = {PhilPapers preprint},
+  year         = {2025},
+  url          = {https://philpapers.org/rec/BAIWWR},
+}
+```
