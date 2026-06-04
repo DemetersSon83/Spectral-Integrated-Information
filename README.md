@@ -3,7 +3,7 @@
 (C) 2026 Mark M. Bailey, PhD
 
 A small Python package + CLI to compute **Φ_spectral** (spectral integrated information) on multivariate time-series,
-as defined in [*When Wholes Resist Decomposition: A Spectral Measure of Epistemic Emergence*](https://philarchive.org/rec/BAIWWR).
+as defined in [*When Wholes Resist Decomposition: A Spectral Measure of Epistemic Emergence*](https://www.mdpi.com/1099-4300/28/4/380).
 
 ## Install
 
@@ -61,7 +61,7 @@ phispectral compute --input data.csv --window 10 --step 1 --bins 3 --outdir outp
 ## Citation
 
 ```bibtex
-@misc{BaileySchneider2026,
+@Article{BaileySchneider2026,
   author       = {Mark M. Bailey and Susan L. Schneider},
   title        = {When Wholes Resist Decomposition: A Spectral Measure of Epistemic Emergence},
   journal      = {Entropy},
