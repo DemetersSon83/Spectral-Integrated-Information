@@ -61,11 +61,12 @@ phispectral compute --input data.csv --window 10 --step 1 --bins 3 --outdir outp
 ## Citation
 
 ```bibtex
-@misc{BaileySchneider2025,
+@misc{BaileySchneider2026,
   author       = {Mark M. Bailey and Susan L. Schneider},
   title        = {When Wholes Resist Decomposition: A Spectral Measure of Epistemic Emergence},
-  note         = {PhilPapers preprint},
-  year         = {2025},
-  url          = {https://philpapers.org/rec/BAIWWR},
+  journal      = {Entropy},
+  volume       = {28},
+  year         = {2026},
+  doi          = {10.3390/e28040380},
 }
 ```
